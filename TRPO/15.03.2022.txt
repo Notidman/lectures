@@ -1,0 +1,78 @@
+V priloshenii recomendyetsya vkluchat materiali dopolnyayshie text otcheta
+svyazanii s vipolnenoi rabotoi esli oni ne mogyt bit vklucheni v osnovnyy chast
+1]  Dop material k otchety
+2]  Promeshytochnii dokozatelsva i rascheti
+3]  Tablizi vspomogatelnih cifrovih dannih
+4]  Protocoli ispitani
+5]  Zakluchenie expertizi
+6]  Instrukcii, metodiki, opysanie algoritmov
+7]  Vspomogatelnie elustracii
+8] ~
+9]  Protocoli rasmotreniy rezultatov
+10] Acti vnedrenia rezultatov
+11] Copia ohranih documentov
+
+// Commentarii
+10] documenti cotorii mogyt poloshitelno pomoch
+
+[ PREZENTACIA ]
+1] slaid ento titulii list na nem informacia s titulnogo lista VKR
+  bez ukazania konsultanta[avtor + rukovoditel]
+2] Cel raboti (ovet na vopros: Zachem nyshna proektiruemai sistema;
+   Chto polychit predpriytie posle vnedrenya sistemi; 
+   )
+  V formulerovki celi mogyt bit sled formulerovki:
+  {
+    Automotizacia procesov
+    Povishenie effectivnosti
+    Snishenie stoimosti
+  }
+
+3] Zadachi raboti kakie nyshno reshit dlya postavlenoi celi
+  (sdelat okolo 5)
+  Zadachi mogyt bit:
+  {
+    Proektirovanie klient-servernoi arch systemi
+    Razrabotka bazi dannih tovarov (baza danih temi)
+  }
+
+4... ne bolshe 10] analiz predmetnoi oblasti 
+  Opisat obekt avtomatizacii
+  Pokazat v vide tablici analogichnie razrabotki
+
+  --------------------------------------------------------------
+  | Osobenosti | Product1 | Product2 | Product3 | Moi Product |  
+  |------------------------------------------------------------
+  | 1 ...       |        |          |           |             |
+  | 2 ...       |        |          |           |             |
+  | 3 ...       |        |          |           |             |
+  | 4 Besplatno | -      |   -      |   -       |    +        | 
+  |------------------------------------------------------------
+
+  Github - NeironX //  chek
+
+3 slaida] Arhitektura sistemi
+  Nachinaetsya s variantov ispolzovania
+  Dalshe structurnai shema systemi
+  Pokazat svyazi meshdy modulami IDEF0
+
+... 2-4 slaida] Prozes razrabotki otdelnih modulei sistemi 
+  Risovat diagrama
+  {
+   Syshnost svyaz
+   Baza danyh 
+  }
+
+Posledii kartini (mnogo ne nado 2-3 slaida)] Rezultati prodelonoi raboti
+
+Konec] Vivodi po rabote
+  Vzyat 5 zadach i skazat chto vse resheno
+
+Predposledii] SPASIBO ZA VNIMANIE
+
+END] SODERSHNIE
+
+Norma prezentacii 15-18 slaidov
+  
+
+
