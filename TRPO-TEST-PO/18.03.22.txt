@@ -1,0 +1,138 @@
+[=| TREBOVSNIA K TESTOVOI DOCUMENTACII |=]
+
+---------------------------------------------------------------------
+Test - eto experement s vhodnimi dannimi v kakihto granicah;
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Test case ( Perevod = Testovii sluchai ) - eto nabor vhodnih danih, 
+yslovii vipolnenia i oshidaemih rezultatov razrabotanii s celiu proverki toko
+ili inogo svoistva ili povedenie programmnogo produkta
+Document dlya opisania test case toshe nazivaitsa test case
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Test case bivaut 2 vidov:
+  1] Visukourovnevii - moshet ne sodershat konkretnii vhodnih dannih
+     i oshidaemih rezultatov, toest pohosh na check list, ogranichen
+     obshimi ideami i operaciami
+  2] Nizkourovnevii - konkretnii vhodnie dannie i oshidaemie rezultati
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Specifikacia test case - eto documant opisoviushii nabor test case'ow
+dlya testiruemovogo experementa.
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Test-Scenarii ( nabor test casov ) - eto document opisovaushii 
+posledovatelnost deistvii po vipolneniu testa
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Specifikacia testa eto ducument vkluchaushii v sebya specifikaciu
+test case'a, test-disaina ( structura testa ), 
+test-proceduri ( test-scenarii ).
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Test-case'i pozvolyaut:
+  1] Structurirovat i systemotizirovat podhod k testirovaniu
+  2] Vicheslyat metriki testovogo pokritia
+  3] Otsleshivat sootvetstvie tekushei situacii, plany
+  4] Ytochnit vzaimo ponimanie meshdy zakazchikom, razrabotchikami,
+     testirovshikami
+  5] Hranit informaciu dlya dlitelnogo ispolzovania
+  6] Provodit regresionnoe testirovanie i povtornoe testirovanie
+  7] Povishat kachestvo trebovanii
+  8] Bistro vvodit v kurs dela novogo sotrudnika
+  ...
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Test-case imeet svoi shiznenii cicol ( nabor sostoyanii v kotorih on 
+moshet nahoditsya [status: provalen, zakrit..] ) 
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Oshidaemii rezultati - eto  opisanie reakcii priloshenia na deistia
+kashdogo shaga test-case'a
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Check-list - eto obichnii spisok kakih libo trebovanii ( metrik ),
+kotorii moshet bit [ne]structurirovan, [ne]imet poruadok vipolnenia
+pynktov. Razrabativaetsya v svobodnoi forme, ed cel vievit defekti.
+Moshet bit graficheskii( mentalnya karta ).
+
+Svoistva kotorimi dolshen obladat Check-list:
+  1] Logichnost (te kotorii imeut znachenia)
+  2] Posledovatelnost, structurirovanost
+  3] Polnota i ne izbitochnost
+
+Primeri ispolzovania Check-list'ov:
+  1] Polzovatelskie scenarii
+  2] Razlichnie yrovni funkcionalnogo testirovania
+  3] Otdelii chasti priloshenia
+  4] Otdelnii trebovania
+  5] Chast ili funcia priloshenia naibolee podvershinaya riskam
+---------------------------------------------------------------------
+
+
+[=| Otchetnya documentacia |=]
+
+---------------------------------------------------------------------
+Oshibka - deistvia privodyashie k nekorektnim rezultatom
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+Soglasno GOST 27.002-89:
+
+Sboi - samoystronaisheisa otkaz ili odnokranii otkaz, ystranyaemii 
+neznachitelnim vmeshatelstvom operatora
+
+Otkaz - eto sobitie zakluchaushee v narushenii rabotosposobnogo
+sostoyania ob'ekta 
+
+Anomalia - otklonenie nabludaemogo sostoyania,znachenia,povedenia,rezultata
+svoista ot oshidanii
+
+Defekt - otklonenie fakticheskogo rezultata ot oshidanii
+
+Otchet o defecte - eto dokument opisivaushii i prioritiziruushii
+obnarushenii defect a takshe sodeistvuushie ego ustranenie
+Pishetsya so sled celyami:
+  1] Predostavit informaciu o probleme
+  2] Prioritizirovat problemu, toest opredelit stepen opasnosti dlya proekta 
+     i sroki ustranenia
+  3] Vipolnit analiz prichin vozniknovenia problemi i predloshit rekomendazii
+     po ispravleniu situacii
+
+Stadii shisnenogo cicla otcheta o defecte:
+  1] Defect obnarushen
+  2] Naznachit otvetstvenost za ispravlenie
+  3] Defect ispravlen
+  4] Ispravlenie protestirovano
+  5] Esli testirovanie uspeshno, to otchet zakrit
+
+Dlya ypravlenie otchetami o defectah, moshno ispolsovat instrumentalnie
+sredstva kotorie dolshni vluchat:
+  1] Id
+  2] Kratkoe opisanie
+  3] Podrobnoe opisanie
+  4] Shagi po proizvedeniu
+  5] Vosproizvodimost
+  6] Vashnost
+  7] Simptom
+  8] Vosmoshnost oboiti defect
+  9] Komentarii i priloshenia
+
+---------------------------------------------------------------------
+
+
+  
+
+
+
+
+
